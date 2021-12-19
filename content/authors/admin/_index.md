@@ -20,7 +20,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Empirical Macroeconomics
 - Time Seires Econometrics
-- Application of Machine Learning in Macreoconomics
+- Machine Learning in Macreoconomics
 - Predictive Modelling
 
 # Education to show in About widget
@@ -74,8 +74,9 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Wisdom Takumah is a PhD Candidate in Economics at Emory University. Prior to joining
+Emory University, he earned  masters degree in Data Science and Economics both at South Dakota State University. He also worked as a
+Research Assistant at United NAtions University- World Institute for Development and Economic Research (UNU-WIDER) at University of Ghana. His research interests are in the
+areas of Empirical macroeconomics, Time Series econometrics and Machine learning applications to macroeconomics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
