@@ -11,7 +11,7 @@ role: PhD Candidate in Economics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Emory University
-  url: https://www.emory.edu/
+  url: https://economics.emory.edu/people/grad-students/takumah-wisdom.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -46,19 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'wtakuma@emory.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/wtakumah
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/wtakumah
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/takumah-wisdom-63719a129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F%2Bvq0rKDT9qKYb9oEt0k7w%3D%3D
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
