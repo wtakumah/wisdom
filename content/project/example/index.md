@@ -1,9 +1,9 @@
 ---
-title: Example Project
+title: Predicting Bad Customers in Credit Dataset
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+-Predictive Modelling
+date: "2017-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
