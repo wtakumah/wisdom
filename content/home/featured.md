@@ -19,7 +19,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: "Wisdom Takumah"
     category: ""
     publication_type: ""
     tag: ""
