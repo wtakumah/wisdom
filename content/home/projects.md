@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Predictive Modelling
+    tag: Predictive Modelling
   - name: Other
     tag: Demo
 
