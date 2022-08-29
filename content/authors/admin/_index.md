@@ -14,12 +14,12 @@ organizations:
   url: https://economics.emory.edu/people/grad-students/takumah-wisdom.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Empirical Macroeconomics, Time Series Econometrics, Machine Learning in Macreoconomics.
 
 # Interests to show in About widget
 interests:
 - Empirical Macroeconomics
-- Time Seires Econometrics
+- Time Series Econometrics
 - Machine Learning in Macreoconomics
 - Predictive Modelling
 
@@ -56,7 +56,14 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/takumah-wisdom-63719a129?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F%2Bvq0rKDT9qKYb9oEt0k7w%3D%3D
-
+- icon: ResearchGate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Wisdom-Takumah-2
+- icon: GoogleScholar
+  icon_pack: fab
+  link:https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6Qe1DAsgt6w0Vczaf7wlHA7Gzhq3W3OWZeWL6qSCepO2XXyZkKgXgLeTsRt1AnXGzdslqsNAN5F7lO5EpTAXMdK5LbAQ&user=2H8Ue30AAAAJ
+  
+  
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
